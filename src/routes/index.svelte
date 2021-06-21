@@ -1,4 +1,9 @@
-<p class="pt-10 flex text-3xl justify-center font-mono text-green-600">Az-21/digital-payment-awareness</p>
+<script lang='ts'>
+import Navbar from "../components/Navbar.svelte";
+</script>
+
+<Navbar horizontal='w-4/5 mx-auto'></Navbar>
+
 
 <style>
 	:global(body) {
