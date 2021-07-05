@@ -26,28 +26,28 @@
 			</button>
 		</div>
 		<div
-			class="lg:flex flex-grow items-center"
+			class="lg:flex flex-grow items-center lg:bg-transparent bg-gray-800 lg:ring-0 ring-1 ring-white rounded-lg"
 			id="mobile-hamburger-menu"
 		>
 			<ul class="flex flex-col lg:flex-row list-none lg:ml-auto">
 				<li class="flex items-center">
 					<a class="px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold" href="#todo"
 						><i class="text-blue-500 fas fa-file-alt text-lg leading-lg " /><span
-							class="inline-block ml-4 mr-6">Blogs</span
+							class="inline-block lg:ml-2 ml-6 mr-6">Blogs</span
 						></a
 					>
 				</li>
 				<li class="flex items-center">
 					<a class="px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold" href="#todo"
 						><i class="text-yellow-500 fas fa-newspaper text-lg leading-lg" /><span
-							class="inline-block ml-4 mr-6">Articles</span
+							class="inline-block lg:ml-2 ml-4 mr-6">Articles</span
 						></a
 					>
 				</li>
 				<li class="flex items-center">
 					<a class="px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold" href="#todo"
 						><i class="text-red-500 fab fa-youtube text-lg leading-lg " /><span
-							class="inline-block ml-4">Videos</span
+							class="inline-block lg:ml-2 ml-4">Videos</span
 						></a
 					>
 				</li>
