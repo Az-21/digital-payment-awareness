@@ -1,14 +1,20 @@
 <!-- Typescript -->
 <script lang="ts">
+	// Svelte Components
 	import Navbar from '../components/Navbar.svelte';
 	import Hero from '../components/Hero.svelte';
 	import CTA from '../components/CTA.svelte';
 	import SectionHeader from '../components/SectionHeader.svelte';
 	import TextCard from '../components/TextCard.svelte';
 	import Video from '../components/Video.svelte';
+	import Footer from '../components/Footer.svelte';
+
+	// JSON Data
 	import { blog } from '../content/BlogJSON.svelte';
 	import { article } from '../content/ArticleJSON.svelte';
 	import { video } from '../content/VideoJSON.svelte';
+
+	// External functions
 	import { estimateTimeToRead, truncateText } from '../components/Functions.svelte';
 </script>
 
@@ -51,14 +57,11 @@
 <SectionHeader text="Watch Videos" textColor="text-red-500" divColor="divide-red-500" />
 <div class="w-5/6 mx-auto grid md:grid-cols-2 gap-4">
 	{#each video as video}
-		<Video
-			title={video.title}
-			subtitle={video.content}
-			link={video.link}
-			time={video.time}
-		/>
+		<Video title={video.title} subtitle={video.content} link={video.link} time={video.time} />
 	{/each}
 </div>
+
+<Footer />
 
 <!-- CSS -->
 <style>
