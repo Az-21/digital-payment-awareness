@@ -12,17 +12,17 @@
 		{
 			title: 'Article #1',
 			content: placeholderText,
-            img: 'https://cdn.akamai.steamstatic.com/steam/apps/1293830/capsule_616x353.jpg'
+            img: 'https://i.pinimg.com/originals/3e/d4/98/3ed498d3a4be00401e9bda4b5c68f237.jpg'
 		},
 		{
 			title: 'Article #2',
 			content: placeholderText,
-            img: 'https://cdn.akamai.steamstatic.com/steam/apps/1293830/capsule_616x353.jpg'
+            img: 'https://i.pinimg.com/originals/3e/d4/98/3ed498d3a4be00401e9bda4b5c68f237.jpg'
 		},
 		{
 			title: 'Article #3',
 			content: placeholderText,
-            img: 'https://cdn.akamai.steamstatic.com/steam/apps/1293830/capsule_616x353.jpg'
+            img: 'https://i.pinimg.com/originals/3e/d4/98/3ed498d3a4be00401e9bda4b5c68f237.jpg'
 		}
 	];
 </script>
