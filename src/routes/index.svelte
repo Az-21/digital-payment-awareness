@@ -1,9 +1,8 @@
-<script lang='ts'>
-import Navbar from "../components/Navbar.svelte";
+<script lang="ts">
+	import Navbar from '../components/Navbar.svelte';
 </script>
 
-<Navbar horizontal='w-4/5 mx-auto'></Navbar>
-
+<Navbar />
 
 <style>
 	:global(body) {
