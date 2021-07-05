@@ -5,8 +5,10 @@
 	import CTA from '../components/CTA.svelte';
 	import SectionHeader from '../components/SectionHeader.svelte';
 	import TextCard from '../components/TextCard.svelte';
+	import Video from '../components/Video.svelte';
 	import { blog } from '../content/BlogJSON.svelte';
 	import { article } from '../content/ArticleJSON.svelte';
+	import { video } from '../content/VideoJSON.svelte';
 	import { estimateTimeToRead, truncateText } from '../components/Functions.svelte';
 </script>
 
@@ -37,6 +39,19 @@
 			subtitle={truncateText(article.content)}
 			img={article.img}
 			time={estimateTimeToRead(article.content)}
+		/>
+	{/each}
+</div>
+
+<!-- YouTube section -->
+<SectionHeader text="Watch Videos" textColor="text-red-500" divColor="divide-red-500" />
+<div class="w-5/6 mx-auto grid md:grid-cols-2 gap-4">
+	{#each video as video}
+		<Video
+			title={video.title}
+			subtitle={video.content}
+			link={video.link}
+			time={video.time}
 		/>
 	{/each}
 </div>
