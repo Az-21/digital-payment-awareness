@@ -8,5 +8,5 @@
 	<div class="flex text-3xl font-black pt-6 {textColor} uppercase">
 		{text}
 	</div>
-	<div />
+	<div class="pb-10"/>
 </div>
