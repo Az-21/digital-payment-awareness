@@ -27,7 +27,7 @@
 					>
 						<i class="fas fa-newspaper" />
 					</div>
-					<h6 class="text-xl font-semibold text-yellow-500">Read Blogs</h6>
+					<h6 class="text-xl font-semibold text-yellow-500">Read Articles</h6>
 					<p class="mt-2 mb-4 text-gray-600">
 						// todo: info about articles and it's benefits
 					</p>
