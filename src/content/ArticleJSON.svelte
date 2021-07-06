@@ -12,17 +12,20 @@
 		{
 			title: 'Article #1',
 			content: placeholderText,
-			img: 'https://i.pinimg.com/originals/3e/d4/98/3ed498d3a4be00401e9bda4b5c68f237.jpg'
+			img: 'https://i.pinimg.com/originals/3e/d4/98/3ed498d3a4be00401e9bda4b5c68f237.jpg',
+			date: 'July 9, 2021'
 		},
 		{
 			title: 'Article #2',
 			content: placeholderText,
-			img: 'https://i.pinimg.com/originals/3e/d4/98/3ed498d3a4be00401e9bda4b5c68f237.jpg'
+			img: 'https://i.pinimg.com/originals/3e/d4/98/3ed498d3a4be00401e9bda4b5c68f237.jpg',
+			date: 'July 9, 2021'
 		},
 		{
 			title: 'Article #3',
 			content: placeholderText,
-			img: 'https://i.pinimg.com/originals/3e/d4/98/3ed498d3a4be00401e9bda4b5c68f237.jpg'
+			img: 'https://i.pinimg.com/originals/3e/d4/98/3ed498d3a4be00401e9bda4b5c68f237.jpg',
+			date: 'July 9, 2021'
 		}
 	];
 </script>
