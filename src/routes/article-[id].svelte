@@ -20,7 +20,7 @@
 	<p class= "pt-4 text-sm font-medium text-yellow-500">{estimateTimeToRead(article[id].content)} • Published {article[id].date}</p>
 	<img class="pt-4 h-64 w-full object-cover" src={article[id].img} alt="" />
 	{#each listContent as paragraph}
-		<p class="pt-8">{paragraph}</p>
+		<p class="pt-8 font-serif text-xl tracking-wide">{paragraph}</p>
 	{/each}
 </div>
 
