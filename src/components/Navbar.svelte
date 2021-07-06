@@ -1,57 +1,38 @@
-<script lang="ts">
-	/// Show/hide extra navbar items on mobile devices
-	function toggleNavbar(collapseID) {
-		document.getElementById(collapseID).classList.toggle('hidden');
-		document.getElementById(collapseID).classList.toggle('block');
-	}
-</script>
+<nav class="bg-gray-900 invisible lg:visible -mt-16 lg:-mt-0">
+	<div class="flex w-5/6 mx-auto lg:justify-between py-2 items-center">
+		<!-- LHS -->
+		<p class="w-4/5 uppercase text-md font-semibold tracking-widest">Digital Payment Awareness</p>
 
-<nav class="top-0 absolute z-50 w-full flex flex-wrap items-center justify-between px-2 py-3 ">
-	<div class="container px-4 mx-auto flex flex-wrap items-center justify-between">
-		<div class="w-full relative flex justify-between lg:w-auto lg:static lg:block lg:justify-start items-end">
-			<div>
-				<i class="text-green-500 pr-2 fas fa-money-check-alt fa-2x" />
-				<a
-					class="font-extrabold leading-relaxed inline-block mr-4 py-2 whitespace-nowrap uppercase hover:text-green-500"
-					href="#todo"
-					>Digital Payment Awareness</a
-				>
-			</div>
+		<!-- RHS -->
+		<div class="w-1/5 flex flex-row justify-end items-center gap-4">
+			<!-- Link 1 -->
 			<button
-				class="cursor-pointer text-xl leading-none px-3 py-1 border border-solid border-transparent rounded bg-transparent block lg:hidden outline-none focus:outline-none"
-				type="button"
-				on:click={() => toggleNavbar('mobile-hamburger-menu')}
+				class="font-medium hover:text-blue-500 py-1 px-4 border border-transparent hover:border-blue-500 rounded flex flex-row items-center"
 			>
-				<i class="text-green-500 fas fa-caret-down fa-2x" />
+				<i class="text-blue-500 fas fa-file-alt mr-2" />
+				<p class="text-sm font-medium uppercase">Blogs</p>
 			</button>
-		</div>
-		<div
-			class="lg:flex flex-grow items-center lg:bg-transparent bg-gray-800 lg:ring-0 ring-1 ring-white rounded-lg"
-			id="mobile-hamburger-menu"
-		>
-			<ul class="flex flex-col lg:flex-row list-none lg:ml-auto">
-				<li class="flex items-center">
-					<a class="px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold" href="#todo"
-						><i class="text-blue-500 fas fa-file-alt text-lg leading-lg " /><span
-							class="inline-block lg:ml-2 ml-6 mr-6">Blogs</span
-						></a
-					>
-				</li>
-				<li class="flex items-center">
-					<a class="px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold" href="#todo"
-						><i class="text-yellow-500 fas fa-newspaper text-lg leading-lg" /><span
-							class="inline-block lg:ml-2 ml-4 mr-6">Articles</span
-						></a
-					>
-				</li>
-				<li class="flex items-center">
-					<a class="px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold" href="#todo"
-						><i class="text-red-500 fab fa-youtube text-lg leading-lg " /><span
-							class="inline-block lg:ml-2 ml-4">Videos</span
-						></a
-					>
-				</li>
-			</ul>
+			<!-- Link 2 -->
+			<button
+				class="font-medium hover:text-yellow-500 py-1 px-4 border border-transparent hover:border-yellow-500 rounded flex flex-row items-center"
+			>
+				<i class="text-yellow-500 fas fa-newspaper mr-2" />
+				<p class="text-sm font-medium uppercase">Articles</p>
+			</button>
+			<!-- Link 3 -->
+			<button
+				class="font-medium hover:text-red-500 py-1 px-4 border border-transparent hover:border-red-500 rounded flex flex-row items-center"
+			>
+				<i class="text-red-500 fab fa-youtube mr-2" />
+				<p class="text-sm font-medium uppercase">Videos</p>
+			</button>
+			<!-- Link 4 -->
+			<button
+				class="font-semibold hover:text-gray-100 py-1 px-4 border border-transparent hover:border-gray-100 rounded flex flex-row items-center"
+			>
+				<i class="text-gray-100 fab fa-github mr-2" />
+				<p class="text-sm font-medium uppercase">GitHub</p>
+			</button>
 		</div>
 	</div>
 </nav>
