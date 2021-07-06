@@ -22,9 +22,9 @@
 				<i class="fas fa-clock {color} mr-2" />
 				<p class="text-gray-500 text-xs">{time}</p>
 			</div>
-			<div class="pl-2 mt-4 flex items-center">
+			<div class="cursor-pointer pl-2 mt-4 flex items-center">
 				<i class="fas fa-angle-down {color} mr-2 transform scale-150" />
-				<a href="#todo:route" class="{color}">Read More</a>
+				<p class="{color}">Read More</p>
 			</div>
 		</div>
 	</div>

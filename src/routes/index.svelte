@@ -29,15 +29,17 @@
 <!-- Blog section -->
 <SectionHeader text="Read Blogs" textColor="text-blue-500" divColor="divide-blue-500" />
 <div class="w-5/6 mx-auto grid md:grid-cols-3 gap-4">
-	{#each blog as blog}
+	{#each blog as blog, index}
+	<div on:click="{() => alert(`blog #${index}`)}">
 		<TextCard
-			title={blog.title}
-			subtitle={truncateText(blog.content)}
-			img={blog.img}
-			time={estimateTimeToRead(blog.content)}
-			icon="fa-file-alt"
-			color="text-blue-500"
+		title={blog.title}
+		subtitle={truncateText(blog.content)}
+		img={blog.img}
+		time={estimateTimeToRead(blog.content)}
+		icon="fa-file-alt"
+		color="text-blue-500"
 		/>
+	</div>
 	{/each}
 </div>
 
