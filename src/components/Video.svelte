@@ -18,7 +18,7 @@
 			<p class="text-sm text-gray-300 overflow-hidden">{subtitle}</p>
 			<div class="pl-1 mt-4 flex items-center">
 				<i class="fas fa-clock text-red-500 mr-2" />
-				<p class="text-gray-500 text-xs">{time}</p>
+				<p class="text-gray-500 text-xs">{time} Minute Watch</p>
 			</div>
 		</div>
 	</div>

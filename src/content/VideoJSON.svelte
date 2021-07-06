@@ -1,16 +1,17 @@
 <script lang="ts" context="module">
-    export const video = [
+	const url = 'https://www.youtube.com/embed/';
+	export const video = [
 		{
 			title: 'Motion Parallax, TF2 Face to Face',
 			content: 'todo: video description',
-            link: 'https://www.youtube.com/embed/GA0j9VinlfU',
-            time: '6 Minute Watch'
+            link: `${url}GA0j9VinlfU`,
+            time: '6'
 		},
 		{
             title: '1983 Audi Quattro VS. Lancia 037',
 			content: 'todo: video description',
-            link: 'https://www.youtube.com/embed/6lo4dGTrzr8',
-            time: '19 Minute Watch'
+            link: `${url}6lo4dGTrzr8`,
+            time: '19'
 		}
 	];
 </script>
