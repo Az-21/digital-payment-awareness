@@ -14,17 +14,20 @@
 		{
 			title: 'Blog #1',
 			content: placeholderText,
-			img: 'https://cdn.akamai.steamstatic.com/steam/apps/1293830/capsule_616x353.jpg'
+			img: 'https://cdn.akamai.steamstatic.com/steam/apps/1293830/capsule_616x353.jpg',
+			date: 'July 9, 2021'
 		},
 		{
 			title: 'Blog #2',
 			content: placeholderText,
-			img: 'https://cdn.akamai.steamstatic.com/steam/apps/1293830/capsule_616x353.jpg'
+			img: 'https://cdn.akamai.steamstatic.com/steam/apps/1293830/capsule_616x353.jpg',
+			date: 'July 9, 2021'
 		},
 		{
 			title: 'Blog #3',
 			content: placeholderText,
-			img: 'https://cdn.akamai.steamstatic.com/steam/apps/1293830/capsule_616x353.jpg'
+			img: 'https://cdn.akamai.steamstatic.com/steam/apps/1293830/capsule_616x353.jpg',
+			date: 'July 9, 2021'
 		}
 	];
 </script>
