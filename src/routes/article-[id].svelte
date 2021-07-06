@@ -7,7 +7,7 @@
 	import { article } from '../content/ArticleJSON.svelte';
 
     // External functions
-	import { estimateTimeToRead, truncateText } from '../components/Functions.svelte';
+	import { estimateTimeToRead } from '../components/Functions.svelte';
 
     import Footer from '../components/Footer.svelte';
 
