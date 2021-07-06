@@ -15,7 +15,7 @@
 	const listContent = blog[id].content.split('\n\n');
 </script>
 
-<div class="w-3/5 mx-auto pb-24">
+<div class="w-5/6 lg:w-3/5 mx-auto pb-24">
     <p class="text-5xl pt-24 font-bold">{blog[id].title}</p>
 	<p class= "pt-4 text-sm font-medium text-blue-500">{estimateTimeToRead(blog[id].content)} • Published {blog[id].date}</p>
 	<img class="pt-4 h-64 w-full object-cover" src={blog[id].img} alt="" />
