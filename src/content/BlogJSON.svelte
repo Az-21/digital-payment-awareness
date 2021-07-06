@@ -1,6 +1,6 @@
 <script lang="ts" context="module">
 	// TODO: delete this placeholder when actual content is added
-    const placeholderText: string = `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque dictum risus orci, a lacinia metus tempor ac. Duis maximus ipsum odio, sed gravida tortor fringilla non. Maecenas sed vulputate metus. Nunc porta quam non est sodales imperdiet vel sit amet lectus. Ut et sapien lacus. Vestibulum leo sem, rutrum at nisi non, fermentum dictum elit. Maecenas eleifend ultricies accumsan. Duis dignissim ante sit amet neque ultrices, nec convallis ante consequat. Curabitur vitae nibh velit. Maecenas ullamcorper massa et neque rutrum ullamcorper.
+	const placeholderText: string = `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque dictum risus orci, a lacinia metus tempor ac. Duis maximus ipsum odio, sed gravida tortor fringilla non. Maecenas sed vulputate metus. Nunc porta quam non est sodales imperdiet vel sit amet lectus. Ut et sapien lacus. Vestibulum leo sem, rutrum at nisi non, fermentum dictum elit. Maecenas eleifend ultricies accumsan. Duis dignissim ante sit amet neque ultrices, nec convallis ante consequat. Curabitur vitae nibh velit. Maecenas ullamcorper massa et neque rutrum ullamcorper.
 
     Aliquam bibendum ac augue sed consectetur. Nulla nisl ante, iaculis ut velit at, suscipit pellentesque urna. Sed eu risus volutpat, ornare mi eget, scelerisque nisl. Proin mauris sapien, condimentum vitae turpis ac, iaculis porttitor lectus. Nullam dignissim lorem diam, sed lacinia est efficitur nec. Fusce quis dolor at arcu volutpat accumsan. Quisque eu magna ipsum.
 
@@ -10,21 +10,21 @@
 
     Aenean a quam tempus, sodales velit quis, placerat ipsum. Aenean ultricies lectus est, sit amet ultricies tortor facilisis quis. Phasellus accumsan congue malesuada. Phasellus id rhoncus massa. Nulla in nulla arcu. Nullam non ligula id est maximus congue eu et enim. Duis risus diam, scelerisque et lobortis et, rhoncus et felis. Praesent ultricies sagittis nisl id facilisis. In hac habitasse platea dictumst.`;
 
-    export const blog = [
+	export const blog = [
 		{
 			title: 'Blog #1',
 			content: placeholderText,
-            img: 'https://cdn.akamai.steamstatic.com/steam/apps/1293830/capsule_616x353.jpg'
+			img: 'https://cdn.akamai.steamstatic.com/steam/apps/1293830/capsule_616x353.jpg'
 		},
 		{
 			title: 'Blog #2',
 			content: placeholderText,
-            img: 'https://cdn.akamai.steamstatic.com/steam/apps/1293830/capsule_616x353.jpg'
+			img: 'https://cdn.akamai.steamstatic.com/steam/apps/1293830/capsule_616x353.jpg'
 		},
 		{
 			title: 'Blog #3',
 			content: placeholderText,
-            img: 'https://cdn.akamai.steamstatic.com/steam/apps/1293830/capsule_616x353.jpg'
+			img: 'https://cdn.akamai.steamstatic.com/steam/apps/1293830/capsule_616x353.jpg'
 		}
 	];
 </script>
