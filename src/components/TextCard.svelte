@@ -1,4 +1,5 @@
 <script lang="ts">
+	export let routeID: string = 'err: routing id prop not passed';
 	export let title: string = 'err: title prop not passed';
 	export let subtitle: string = 'err: subtitle prop not passed';
 	export let img: string = 'err: image prop not passed';
@@ -22,10 +23,10 @@
 				<i class="fas fa-clock {color} mr-2" />
 				<p class="text-gray-500 text-xs">{time}</p>
 			</div>
-			<div class="cursor-pointer pl-2 mt-4 flex items-center">
+			<a href={routeID} class="cursor-pointer pl-2 mt-4 flex items-center">
 				<i class="fas fa-angle-down {color} mr-2 transform scale-150" />
 				<p class="{color}">Read More</p>
-			</div>
+			</a>
 		</div>
 	</div>
 </div>

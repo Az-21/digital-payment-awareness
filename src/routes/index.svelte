@@ -29,8 +29,9 @@
 <!-- Blog section -->
 <SectionHeader text="Read Blogs" textColor="text-blue-500" divColor="divide-blue-500" />
 <div class="w-5/6 mx-auto grid md:grid-cols-3 gap-4">
-	{#each blog as blog}
+	{#each blog as blog, index}
 		<TextCard
+			routeID={`blog-${index}`}
 			title={blog.title}
 			subtitle={truncateText(blog.content)}
 			img={blog.img}
@@ -44,8 +45,9 @@
 <!-- Article section -->
 <SectionHeader text="Read Articles" textColor="text-yellow-500" divColor="divide-yellow-500" />
 <div class="w-5/6 mx-auto grid md:grid-cols-3 gap-4">
-	{#each article as article}
+	{#each article as article, index}
 		<TextCard
+			routeID={`article-${index}`}
 			title={article.title}
 			subtitle={truncateText(article.content)}
 			img={article.img}
