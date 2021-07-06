@@ -18,6 +18,9 @@
 	import { estimateTimeToRead, truncateText } from '../components/Functions.svelte';
 </script>
 
+<!-- Title of Tab -->
+<svelte:head><title>Digital Payment Awareness</title></svelte:head>
+
 <!-- HTML Components -->
 <Navbar />
 <Hero />
