@@ -4,7 +4,6 @@
 	export let subtitle: string = 'err: subtitle prop not passed';
 	export let img: string = 'err: image prop not passed';
 	export let time: string = 'err: time to read prop not passed';
-	export let date: string = 'err: date prop not passed'
 	export let color: string = 'text-pink-500';
 	export let icon: string = 'fa-question';
 </script>
