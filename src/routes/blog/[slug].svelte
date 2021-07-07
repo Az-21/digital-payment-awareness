@@ -30,13 +30,13 @@
 
 <!-- HTML -->
 <div class="w-5/6 lg:w-3/5 mx-auto pb-24">
-	<p class="text-5xl pt-12 lg:pt-24 font-bold">{post.title}</p>
+	<p class="text-5xl pt-12 lg:pt-24 font-bold" id='immersive-reader-content'>{post.title}</p>
 	<p class="pt-4 text-sm font-medium text-blue-500">
 		{estimateTimeToRead(post.content)} • Published {post.date}
 	</p>
 	<img class="pt-4 h-64 w-full object-cover" src={post.img} alt="" />
 	{#each listContent as paragraph}
-		<p class="pt-8 font-serif text-xl tracking-wide">{paragraph}</p>
+		<p class="pt-8 font-serif text-xl tracking-wide" id='immersive-reader-content'>{paragraph}</p>
 	{/each}
 </div>
 
