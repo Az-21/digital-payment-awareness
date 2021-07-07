@@ -27,6 +27,7 @@
 <CTA />
 
 <!-- Blog section -->
+<div id="blog"></div>
 <SectionHeader text="Read Blogs" textColor="text-blue-500" divColor="divide-blue-500" />
 <div class="w-5/6 mx-auto grid md:grid-cols-3 gap-4">
 	{#each blog as blog, index}
@@ -43,6 +44,7 @@
 </div>
 
 <!-- Article section -->
+<div id="article"></div>
 <SectionHeader text="Read Articles" textColor="text-yellow-500" divColor="divide-yellow-500" />
 <div class="w-5/6 mx-auto grid md:grid-cols-3 gap-4">
 	{#each article as article, index}
@@ -59,6 +61,7 @@
 </div>
 
 <!-- YouTube section -->
+<div id="video"></div>
 <SectionHeader text="Watch Videos" textColor="text-red-500" divColor="divide-red-500" />
 <div class="w-5/6 mx-auto grid md:grid-cols-2 gap-4">
 	{#each video as video}

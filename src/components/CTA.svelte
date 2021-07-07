@@ -4,7 +4,7 @@
 			<div
 				class="relative flex flex-col min-w-0 break-words bg-white w-full mb-8 shadow-md rounded-lg"
 			>
-				<a href="#todo:jumpToSection" class="px-4 py-5 flex-auto bg-gray-900">
+				<a href="#blog" class="px-4 py-5 flex-auto bg-gray-900">
 					<div
 						class="p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-md rounded-lg bg-blue-500"
 					>
@@ -21,7 +21,7 @@
 			<div
 				class="relative flex flex-col min-w-0 break-words bg-white w-full mb-8 shadow-md rounded-lg"
 			>
-				<a href="#todo:jumpToSection" class="px-4 py-5 flex-auto bg-gray-900">
+				<a href="#article" class="px-4 py-5 flex-auto bg-gray-900">
 					<div
 						class="p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-md rounded-lg bg-yellow-500"
 					>
@@ -38,7 +38,7 @@
 			<div
 				class="relative flex flex-col min-w-0 break-words bg-white w-full mb-8 shadow-md rounded-lg"
 			>
-				<a href="#todo:jumpToSection" class="px-4 py-5 flex-auto bg-gray-900">
+				<a href="#video" class="px-4 py-5 flex-auto bg-gray-900">
 					<div
 						class="p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-md rounded-lg bg-red-500"
 					>
