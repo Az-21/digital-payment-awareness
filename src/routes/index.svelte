@@ -66,8 +66,6 @@
 	{/each}
 </div>
 
-<Footer />
-
 <!-- CSS -->
 <style>
 	:global(body) {
