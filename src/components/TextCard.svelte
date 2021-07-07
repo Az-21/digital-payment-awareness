@@ -4,8 +4,9 @@
 	export let subtitle: string = 'err: subtitle prop not passed';
 	export let img: string = 'err: image prop not passed';
 	export let time: string = 'err: time to read prop not passed';
+	export let date: string = 'err: date prop not passed'
 	export let color: string = 'text-pink-500';
-	export let icon: string = 'fa-question'
+	export let icon: string = 'fa-question';
 </script>
 
 <div class="mx-auto">
@@ -18,12 +19,12 @@
 				<i class="fas {icon} {color} mr-2 transform fa-2x" />
 				<h2 class="font-bold text-2xl tracking-normal">{title}</h2>
 			</div>
-			<p class="text-sm text-gray-300 h-32 overflow-hidden">{subtitle}</p>
-			<div class="pl-1 mt-4 flex items-center">
-				<i class="fas fa-clock {color} mr-2" />
-				<p class="text-gray-500 text-xs">{time}</p>
+			<div class="pt-4 flex flex-row">
+					<i class="fas fa-clock {color} mr-2" />
+					<p class="text-gray-500 text-xs">{time}</p>
 			</div>
-			<a href={routeID} class="cursor-pointer pl-2 mt-4 flex items-center">
+			<p class="text-sm text-gray-300 h-32 overflow-hidden">{subtitle}</p>
+			<a href={routeID} class="cursor-pointer mt-4 flex items-center justify-center">
 				<i class="fas fa-angle-down {color} mr-2 transform scale-150" />
 				<p class="{color}">Read More</p>
 			</a>
