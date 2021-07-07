@@ -61,8 +61,8 @@
 	<div>
 		{#if pageID + 1 != numberOfBlogs}
 			<a href="./{pageID + 1}" class="cursor-pointer pl-2 mt-4 flex items-center">
-				<i class="fas fa-angle-right text-blue-500 mr-2 transform scale-150" />
 				<p class="text-blue-500">Next Blog</p>
+				<i class="fas fa-angle-right text-blue-500 ml-2 transform scale-150" />
 			</a>
 		{/if}
 	</div>

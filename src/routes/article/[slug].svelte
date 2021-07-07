@@ -60,9 +60,9 @@
 
 	<div>
 		{#if pageID + 1 != numberOfArticles}
-			<a href="./{pageID + 1}" class="cursor-pointer pl-2 mt-4 flex items-center">
-				<i class="fas fa-angle-right text-yellow-500 mr-2 transform scale-150" />
+			<a href="./{pageID + 1}" class="cursor-pointer pl-2 mt-4 flex items-center align-center">
 				<p class="text-yellow-500">Next Article</p>
+				<i class="fas fa-angle-right text-yellow-500 ml-2 transform scale-150" />
 			</a>
 		{/if}
 	</div>
