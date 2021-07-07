@@ -40,7 +40,7 @@
 							<li>
 								<a
 									class="text-gray-400 hover:text-green-500 font-semibold block pb-2 text-sm"
-									href="#todo">About Us</a
+									href="/page/about">About Us</a
 								>
 							</li>
 							<li>
