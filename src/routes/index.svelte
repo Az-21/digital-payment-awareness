@@ -27,7 +27,7 @@
 <CTA />
 
 <!-- Blog section -->
-<div id="blog"></div>
+<div id="blog" />
 <SectionHeader text="Read Blogs" textColor="text-blue-500" divColor="divide-blue-500" />
 <div class="w-5/6 mx-auto grid md:grid-cols-3 gap-4">
 	{#each blog as blog, index}
@@ -44,7 +44,7 @@
 </div>
 
 <!-- Article section -->
-<div id="article"></div>
+<div id="article" />
 <SectionHeader text="Read Articles" textColor="text-yellow-500" divColor="divide-yellow-500" />
 <div class="w-5/6 mx-auto grid md:grid-cols-3 gap-4">
 	{#each article as article, index}
@@ -61,7 +61,7 @@
 </div>
 
 <!-- YouTube section -->
-<div id="video"></div>
+<div id="video" />
 <SectionHeader text="Watch Videos" textColor="text-red-500" divColor="divide-red-500" />
 <div class="w-5/6 mx-auto grid md:grid-cols-2 gap-4">
 	{#each video as video}
@@ -76,5 +76,8 @@
 	:global(body) {
 		background-color: #0a0a0a;
 		color: #fff;
+	}
+	:global(html) {
+		scroll-behavior: smooth;
 	}
 </style>
