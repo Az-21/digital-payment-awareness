@@ -31,7 +31,7 @@
 <div class="w-5/6 mx-auto grid md:grid-cols-3 gap-4">
 	{#each blog as blog, index}
 		<TextCard
-			routeID={`blog-${index}`}
+			routeID={`/blog/${index}`}
 			title={blog.title}
 			subtitle={truncateText(blog.content)}
 			img={blog.img}
@@ -47,7 +47,7 @@
 <div class="w-5/6 mx-auto grid md:grid-cols-3 gap-4">
 	{#each article as article, index}
 		<TextCard
-			routeID={`article-${index}`}
+			routeID={`/article/${index}`}
 			title={article.title}
 			subtitle={truncateText(article.content)}
 			img={article.img}
