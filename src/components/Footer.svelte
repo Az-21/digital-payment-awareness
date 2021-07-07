@@ -2,7 +2,7 @@
 	<div class="container mx-auto w-5/6">
 		<div class="flex flex-wrap">
 			<div class="w-full lg:w-6/12">
-				<h4 class="text-3xl font-semibold">Lorem ipsum</h4>
+				<h4 class="text-3xl font-semibold">Digital Payment Awareness</h4>
 				<h5 class="text-lg mt-0 mb-2 text-gray-400">
 					// todo: add some closing remark
 				</h5>
@@ -46,7 +46,7 @@
 							<li>
 								<a
 									class="text-gray-400 hover:text-green-500 font-semibold block pb-2 text-sm"
-									href="#todo">GitHub</a
+									href="https://github.com/Az-21/digital-payment-awareness">GitHub</a
 								>
 							</li>
 							<li>
@@ -71,25 +71,25 @@
 							<li>
 								<a
 									class="text-gray-400 hover:text-green-500 font-semibold block pb-2 text-sm"
-									href="#todo">Google Pay</a
+									href="https://pay.google.com/">Google Pay</a
 								>
 							</li>
 							<li>
 								<a
 									class="text-gray-400 hover:text-green-500 font-semibold block pb-2 text-sm"
-									href="#todo">PayPal</a
+									href="https://www.paypal.com/">PayPal</a
 								>
 							</li>
 							<li>
 								<a
 									class="text-gray-400 hover:text-green-500 font-semibold block pb-2 text-sm"
-									href="#todo">PayTM</a
+									href="https://paytm.com/">PayTM</a
 								>
 							</li>
 							<li>
 								<a
 									class="text-gray-400 hover:text-green-500 font-semibold block pb-2 text-sm"
-									href="#todo">PhonePe</a
+									href="https://www.phonepe.com/">PhonePe</a
 								>
 							</li>
 						</ul>
