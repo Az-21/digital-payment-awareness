@@ -9,7 +9,7 @@
 </script>
 
 <div class="mx-auto">
-	<div class="bg-gray-900 shadow-md rounded-lg mb-6 tracking-wide">
+	<div class="bg-gray-900 shadow-md mb-6 tracking-wide">
 		<div class="md:flex-shrink-0">
 			<img src={img} alt="cover" class="w-full h-64 object-cover" />
 		</div>

@@ -6,7 +6,7 @@
 </script>
 
 <div class="w-full">
-	<div class="bg-gray-900 shadow-md rounded-lg mb-6 tracking-wide">
+	<div class="bg-gray-900 shadow-md mb-6 tracking-wide">
 		<div class="md:flex-shrink-0 lg:h-96 h-56">
 			<iframe {title} width="100%" height="100%" src={link} frameborder="0" allowfullscreen />
 		</div>
