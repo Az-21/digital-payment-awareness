@@ -34,9 +34,15 @@
 				<div class="flex flex-wrap items-top mb-6">
 					<div class="w-1/2 lg:w-2/5 ml-auto pt-4 lg:pt-0">
 						<span class="block uppercase text-gray-100 text-sm font-semibold mb-2"
-							>Useful Links</span
+							>Links</span
 						>
 						<ul class="list-unstyled">
+							<li>
+								<a
+									class="text-gray-400 hover:text-green-500 font-semibold block pb-2 text-sm"
+									href="/">Home</a
+								>
+							</li>
 							<li>
 								<a
 									class="text-gray-400 hover:text-green-500 font-semibold block pb-2 text-sm"
@@ -46,13 +52,7 @@
 							<li>
 								<a
 									class="text-gray-400 hover:text-green-500 font-semibold block pb-2 text-sm"
-									href="https://github.com/Az-21/digital-payment-awareness">GitHub</a
-								>
-							</li>
-							<li>
-								<a
-									class="text-gray-400 hover:text-green-500 font-semibold block pb-2 text-sm"
-									href="#todo">TODO</a
+									href="https://github.com/Az-21/digital-payment-awareness/stargazers" target="blank">★ on GitHub</a
 								>
 							</li>
 							<li>
