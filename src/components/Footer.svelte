@@ -1,4 +1,4 @@
-<footer class="relative bg-gray-800 pt-8 pb-6">
+<footer class="relative navbar pt-8 pb-6">
 	<div class="container mx-auto w-5/6">
 		<div class="flex flex-wrap">
 			<div class="w-full lg:w-6/12">
@@ -105,3 +105,10 @@
 		</div>
 	</div>
 </footer>
+
+<!-- CSS -->
+<style>
+	.navbar {
+		background-color: #1a1a1a;
+	}
+</style>

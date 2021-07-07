@@ -71,7 +71,7 @@
 <!-- CSS -->
 <style>
 	:global(body) {
-		background-color: #1a1a1a;
+		background-color: #0a0a0a;
 		color: #fff;
 	}
 </style>

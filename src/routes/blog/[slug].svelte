@@ -73,7 +73,7 @@
 <!-- CSS -->
 <style>
 	:global(body) {
-		background-color: #1a1a1a;
+		background-color: #444;
 		color: #fff;
 	}
 </style>
