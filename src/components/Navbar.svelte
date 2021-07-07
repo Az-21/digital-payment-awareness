@@ -7,28 +7,28 @@
 		<div class="w-1/5 flex flex-row justify-end items-center gap-4">
 			<!-- Link 1 -->
 			<button
-				class="font-medium hover:text-blue-500 py-1 px-4 border border-transparent hover:border-blue-500 rounded flex flex-row items-center"
+				class="font-medium hover:text-blue-500 py-1 px-4 border border-transparent hover:border-blue-500 flex flex-row items-center"
 			>
 				<i class="text-blue-500 fas fa-file-alt mr-2" />
 				<p class="text-sm font-medium uppercase">Blogs</p>
 			</button>
 			<!-- Link 2 -->
 			<button
-				class="font-medium hover:text-yellow-500 py-1 px-4 border border-transparent hover:border-yellow-500 rounded flex flex-row items-center"
+				class="font-medium hover:text-yellow-500 py-1 px-4 border border-transparent hover:border-yellow-500 flex flex-row items-center"
 			>
 				<i class="text-yellow-500 fas fa-newspaper mr-2" />
 				<p class="text-sm font-medium uppercase">Articles</p>
 			</button>
 			<!-- Link 3 -->
 			<button
-				class="font-medium hover:text-red-500 py-1 px-4 border border-transparent hover:border-red-500 rounded flex flex-row items-center"
+				class="font-medium hover:text-red-500 py-1 px-4 border border-transparent hover:border-red-500 flex flex-row items-center"
 			>
 				<i class="text-red-500 fab fa-youtube mr-2" />
 				<p class="text-sm font-medium uppercase">Videos</p>
 			</button>
 			<!-- Link 4 -->
 			<button
-				class="font-semibold hover:text-gray-100 py-1 px-4 border border-transparent hover:border-gray-100 rounded flex flex-row items-center"
+				class="font-semibold hover:text-gray-100 py-1 px-4 border border-transparent hover:border-gray-100 flex flex-row items-center"
 			>
 				<i class="text-gray-100 fab fa-github mr-2" />
 				<p class="text-sm font-medium uppercase">GitHub</p>
