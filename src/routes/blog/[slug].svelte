@@ -20,9 +20,6 @@
 	// Components
 	import Footer from '../../components/Footer.svelte';
 	import { estimateTimeToRead } from '../../components/Functions.svelte';
-
-	// Create array of paragraphs
-	const listContent = post.content.split('\n\n');
 </script>
 
 <!-- Title of Tab -->
@@ -35,9 +32,9 @@
 		{estimateTimeToRead(post.content)} • Published {post.date}
 	</p>
 	<img class="pt-4 h-64 w-full object-cover" src={post.img} alt="" />
-	{#each listContent as paragraph}
-		<p class="pt-8 font-serif text-xl tracking-wide" id='immersive-reader-content'>{paragraph}</p>
-	{/each}
+	<article class="markdown-body" id="immersive-reader-content">
+		{@html post.content}
+	</article>
 </div>
 
 <!-- Next/Previous Section -->
@@ -72,8 +69,8 @@
 
 <!-- CSS -->
 <style>
-	:global(body) {
-		background-color: #444;
-		color: #fff;
-	}
+:global(body) {
+	background-color: #0A0A0A;
+	color: #fff;
+}
 </style>
