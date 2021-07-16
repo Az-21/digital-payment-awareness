@@ -31,7 +31,7 @@
 	<p class="pt-4 text-sm font-medium text-blue-500">
 		{estimateTimeToRead(post.content)} • Published {post.date}
 	</p>
-	<img class="pt-4 h-64 w-full object-cover" src={post.img} alt="" />
+	<img class="py-4 h-64 w-full object-cover" src={post.img} alt="" />
 	<article class="markdown-body" id="immersive-reader-content">
 		{@html post.content}
 	</article>
