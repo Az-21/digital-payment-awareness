@@ -4,9 +4,9 @@
 >
 	<div
 		class="absolute top-0 w-full h-full bg-center bg-cover"
-		style="background-image: url('https://images.unsplash.com/photo-1446757981584-845b14aa7dd0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80');"
+		style="background-image: url('https://images.unsplash.com/photo-1548870884-a7decdf2e038?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1949&q=80');"
 	>
-		<span id="blackOverlay" class="w-full h-full absolute opacity-75 bg-black" />
+		<span id="blackOverlay" class="w-full h-full absolute opacity-25 bg-black" />
 	</div>
 	<div class="container relative mx-auto">
 		<div class="items-center flex flex-wrap">
