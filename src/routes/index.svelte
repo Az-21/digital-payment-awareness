@@ -2,6 +2,7 @@
 <script lang="ts">
 	// Svelte Components
 	import Navbar from '../components/Navbar.svelte';
+	import BackToTop from '../components/BackToTop.svelte';
 	import Hero from '../components/Hero.svelte';
 	import CTA from '../components/CTA.svelte';
 	import SectionHeader from '../components/SectionHeader.svelte';
@@ -23,6 +24,7 @@
 
 <!-- HTML Components -->
 <Navbar />
+<BackToTop />
 <Hero />
 <CTA />
 
