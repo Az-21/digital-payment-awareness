@@ -4,22 +4,25 @@
 
 	export const blog = [
 		{
-			title: 'Blog #1',
-			preview: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vitae gravida ligula, ac rhoncus magna. Donec vulputate tellus eu justo mattis ultrices. Aliquam lectus lacus, congue eget sollicitudin a, lacinia a risus. Sed vulputate facilisis luctus. Suspendisse vitae metus nisl. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam volutpat, turpis sit amet mattis sagittis, orci erat aliquet diam, id consectetur metus enim ut augue. Aenean vitae nulla lacus.',
-			content: placeholderText,
-			img: 'https://cdn.akamai.steamstatic.com/steam/apps/1293830/capsule_616x353.jpg',
-			date: 'July 9, 2021'
+			title: "India's Journey Towards a Digital Economy",
+			preview:
+				'On November 8, 2016 the Government announced demonetization, the event that brought digital payments to the fore. Three years forward in 2019 RBI reported that the number of digital transactions has tripled, and now in 2021 the number of transactions has again doubled in volume.',
+			content: `<h2>Introduction</h2><p>On November 8, 2016 the Government announced demonetization, the event that brought digital payments to the fore.</p><p>Three years forward in 2019 RBI reported that the number of digital transactions has tripled, and now in 2021 the number of transactions has again doubled in volume.</p><p>The long ATMs queues are becoming a rare sight. Shopkeepers, cab drivers, and street vendor are switching over to digital payments.</p><p>So, what happened? Why was there a sudden surge in digital transactions? And what does the future hold?</p><h2>Facts and Figures</h2><p>At the present rate of shift towards digital payment systems; 3 in every 4 transactions will be digital by 2025. This sudden momentum can be seen as a result of increasing technological advances in the financial system and events like demonetization and COVID lockdown which acted as a catalyst. The speed, safety, ease of payments attracts vendors and consumers equally.</p><p>Though the currency circulation was increased by 19.1 % in 2019 from the 2016 levels, the RBI norms on withdrawal limits, tariffs on ATM withdrawals, and intensive marketing campaigns by fintech companies has made India the top country in digital transactions by volume.</p><p>The most preferred form of digital payment presently is UPI (Unified Payment Interface) by debit/credit cards. The year 2020 marked a new record for UPI transactions in India. The total UPI transactions in 2020 reached the figure of 4,16,000 crores in 2020 which was a two-fold increase from the transactions in 2019. The pandemic forced many people to be accustomed to these formats, still it’s something that will benefit the economy in long run.</p><h2>Going Forward</h2><p>What does the future hold for digital payment? That&#39;s a really difficult question to answer, but it is sure that we’re not going back to the paper currency age.</p>`,
+			img: 'https://images.unsplash.com/photo-1607434531924-050d4e675a44?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80',
+			date: 'July 16, 2021'
 		},
 		{
 			title: 'Blog #2',
-			preview: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vitae gravida ligula, ac rhoncus magna. Donec vulputate tellus eu justo mattis ultrices. Aliquam lectus lacus, congue eget sollicitudin a, lacinia a risus. Sed vulputate facilisis luctus. Suspendisse vitae metus nisl. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam volutpat, turpis sit amet mattis sagittis, orci erat aliquet diam, id consectetur metus enim ut augue. Aenean vitae nulla lacus.',
+			preview:
+				'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vitae gravida ligula, ac rhoncus magna. Donec vulputate tellus eu justo mattis ultrices. Aliquam lectus lacus, congue eget sollicitudin a, lacinia a risus. Sed vulputate facilisis luctus. Suspendisse vitae metus nisl. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam volutpat, turpis sit amet mattis sagittis, orci erat aliquet diam, id consectetur metus enim ut augue. Aenean vitae nulla lacus.',
 			content: placeholderText,
 			img: 'https://cdn.akamai.steamstatic.com/steam/apps/1293830/capsule_616x353.jpg',
 			date: 'July 9, 2021'
 		},
 		{
 			title: 'Blog #3',
-			preview: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vitae gravida ligula, ac rhoncus magna. Donec vulputate tellus eu justo mattis ultrices. Aliquam lectus lacus, congue eget sollicitudin a, lacinia a risus. Sed vulputate facilisis luctus. Suspendisse vitae metus nisl. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam volutpat, turpis sit amet mattis sagittis, orci erat aliquet diam, id consectetur metus enim ut augue. Aenean vitae nulla lacus.',
+			preview:
+				'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vitae gravida ligula, ac rhoncus magna. Donec vulputate tellus eu justo mattis ultrices. Aliquam lectus lacus, congue eget sollicitudin a, lacinia a risus. Sed vulputate facilisis luctus. Suspendisse vitae metus nisl. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam volutpat, turpis sit amet mattis sagittis, orci erat aliquet diam, id consectetur metus enim ut augue. Aenean vitae nulla lacus.',
 			content: placeholderText,
 			img: 'https://cdn.akamai.steamstatic.com/steam/apps/1293830/capsule_616x353.jpg',
 			date: 'July 9, 2021'
