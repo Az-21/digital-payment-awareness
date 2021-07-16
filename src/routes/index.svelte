@@ -39,7 +39,6 @@
 			subtitle={truncateText(blog.preview)}
 			img={blog.img}
 			time={estimateTimeToRead(blog.content)}
-			icon="fa-file-alt"
 			color="text-blue-500"
 		/>
 	{/each}
@@ -56,7 +55,6 @@
 			subtitle={truncateText(article.preview)}
 			img={article.img}
 			time={estimateTimeToRead(article.content)}
-			icon="fa-newspaper"
 			color="text-yellow-500"
 		/>
 	{/each}
