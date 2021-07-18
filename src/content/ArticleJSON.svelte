@@ -4,22 +4,25 @@
 
 	export const article = [
 		{
-			title: 'Blog #1',
-			preview: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vitae gravida ligula, ac rhoncus magna. Donec vulputate tellus eu justo mattis ultrices. Aliquam lectus lacus, congue eget sollicitudin a, lacinia a risus. Sed vulputate facilisis luctus. Suspendisse vitae metus nisl. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam volutpat, turpis sit amet mattis sagittis, orci erat aliquet diam, id consectetur metus enim ut augue. Aenean vitae nulla lacus.',
+			title: 'Article #1',
+			preview:
+				'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vitae gravida ligula, ac rhoncus magna. Donec vulputate tellus eu justo mattis ultrices. Aliquam lectus lacus, congue eget sollicitudin a, lacinia a risus. Sed vulputate facilisis luctus. Suspendisse vitae metus nisl. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam volutpat, turpis sit amet mattis sagittis, orci erat aliquet diam, id consectetur metus enim ut augue. Aenean vitae nulla lacus.',
 			content: placeholderText,
 			img: 'https://i.pinimg.com/originals/3e/d4/98/3ed498d3a4be00401e9bda4b5c68f237.jpg',
 			date: 'July 9, 2021'
 		},
 		{
-			title: 'Blog #2',
-			preview: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vitae gravida ligula, ac rhoncus magna. Donec vulputate tellus eu justo mattis ultrices. Aliquam lectus lacus, congue eget sollicitudin a, lacinia a risus. Sed vulputate facilisis luctus. Suspendisse vitae metus nisl. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam volutpat, turpis sit amet mattis sagittis, orci erat aliquet diam, id consectetur metus enim ut augue. Aenean vitae nulla lacus.',
+			title: 'Article #2',
+			preview:
+				'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vitae gravida ligula, ac rhoncus magna. Donec vulputate tellus eu justo mattis ultrices. Aliquam lectus lacus, congue eget sollicitudin a, lacinia a risus. Sed vulputate facilisis luctus. Suspendisse vitae metus nisl. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam volutpat, turpis sit amet mattis sagittis, orci erat aliquet diam, id consectetur metus enim ut augue. Aenean vitae nulla lacus.',
 			content: placeholderText,
 			img: 'https://i.pinimg.com/originals/3e/d4/98/3ed498d3a4be00401e9bda4b5c68f237.jpg',
 			date: 'July 9, 2021'
 		},
 		{
-			title: 'Blog #3',
-			preview: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vitae gravida ligula, ac rhoncus magna. Donec vulputate tellus eu justo mattis ultrices. Aliquam lectus lacus, congue eget sollicitudin a, lacinia a risus. Sed vulputate facilisis luctus. Suspendisse vitae metus nisl. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam volutpat, turpis sit amet mattis sagittis, orci erat aliquet diam, id consectetur metus enim ut augue. Aenean vitae nulla lacus.',
+			title: 'Article #3',
+			preview:
+				'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vitae gravida ligula, ac rhoncus magna. Donec vulputate tellus eu justo mattis ultrices. Aliquam lectus lacus, congue eget sollicitudin a, lacinia a risus. Sed vulputate facilisis luctus. Suspendisse vitae metus nisl. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam volutpat, turpis sit amet mattis sagittis, orci erat aliquet diam, id consectetur metus enim ut augue. Aenean vitae nulla lacus.',
 			content: placeholderText,
 			img: 'https://i.pinimg.com/originals/3e/d4/98/3ed498d3a4be00401e9bda4b5c68f237.jpg',
 			date: 'July 9, 2021'
