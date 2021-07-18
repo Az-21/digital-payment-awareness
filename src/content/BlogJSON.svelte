@@ -18,12 +18,12 @@
 			date: 'July 18, 2021'
 		},
 		{
-			title: 'Blog #3',
+			title: 'Digital Payments: The Need of the Hour',
 			preview:
-				'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vitae gravida ligula, ac rhoncus magna. Donec vulputate tellus eu justo mattis ultrices. Aliquam lectus lacus, congue eget sollicitudin a, lacinia a risus. Sed vulputate facilisis luctus. Suspendisse vitae metus nisl. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam volutpat, turpis sit amet mattis sagittis, orci erat aliquet diam, id consectetur metus enim ut augue. Aenean vitae nulla lacus.',
-			content: `placeholderText`,
+				'In the era of digitalization, the most affected area is the economic sector. Digital payments marked their beginning in 2016 with the demonetization and it has only been growing exponentially since then.',
+			content: `<p><em>In the era of digitalization, the most affected area is the economic sector. Digital payments marked their beginning in 2016 with the demonetization and it has only been growing exponentially since then.</em> </p><p>You do not need to visit the bank each time you make a transaction. Digital payment allows you to transfer money from one account to another using a digital device. Platforms like Google Pay, Paytm, PhonePe, etc. are all over the place, especially amidst the pandemic. The pandemic caused a decline in the Cash-On Delivery method. Consequently, people started relying more upon online transactions. </p><p>Initially, cashless transactions were confined to metropolitan cities of the country, but social distancing norms and government schemes spread awareness among the people belonging to small towns. Nowadays, even tier-4 and tier-5 cities have adopted the contactless payment method using video KYC and Aadhar-enabled methods. </p><p>Along with providing financial accessibility, going cashless is relatively convenient, hassle-free, and easy to transact. It eliminates the struggle of standing in long queues in scorching weather and lets you conduct transactions with only a few clicks. Currently, over 300 million users in India prefer online payments through mobile banking as they offer &#39;tokenization&#39; wherein the card details are encrypted and provide a secured experience.</p>`,
 			img: 'https://cdn.akamai.steamstatic.com/steam/apps/1293830/capsule_616x353.jpg',
-			date: 'July 9, 2021'
+			date: 'July 19, 2021'
 		}
 	];
 </script>
