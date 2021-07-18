@@ -7,6 +7,6 @@
 
 	/// Get the first `n` words from a string and append with `...`
 	export function truncateText(text: string): string {
-		return `${text.substr(0, 265)} ...`;
+		return `${text.substr(0, 265)}...`;
 	}
 </script>
