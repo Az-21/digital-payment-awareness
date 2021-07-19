@@ -21,6 +21,14 @@
 			content: `<ul><li>Step 1 : Click on your profile picture.</li><li>Step 2 : Click on <code>Bank Account</code> under the tab <code>Set up Payment Methods</code>. </li><li>Step 3 : Click on your bank account. </li><li>Step 4 : Tap on the three dots at the top-right corner of your screen.</li><li>Step 5 : Click on <code>Change UPI pin</code>.</li><li>Step 6 : Enter your old UPI pin and press ✅.</li><li>Step 7 : Enter the new pin you wish to keep and press ✅.</li><li>Step 8 : Enter the new pin again to confirm. </li><li>Step 9 : Your UPI pin is changed.</li></ul>`,
 			img: 'https://images.unsplash.com/photo-1504203700686-f21e703e5f1c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1961&q=80',
 			date: 'July 21, 2021'
-		}
+		},
+		{
+			title: 'How to check account balance.',
+			preview:
+				'// todo | 265 chars Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam volutpat, turpis sit amet mattis sagittis, orci erat aliquet diam, id consectetur metus enim ut augue. Aenean vitae nulla lacus.',
+			content: `<ul><li>Step 1 : Click on your profile picture at the top-right of your screen.</li><li>Step 2 : Click on <code>Bank Account</code> under the tab <code>Set up payment methods</code>.</li><li>Step 3 : Click on your bank account.</li><li>Step 4 : At the bottom of the options displayed, you will find <code>View Account Balance</code>. Select that.</li><li>Step 5 : GPay will prompt you to enter your 6-digit pin.</li><li>Step 6 : Enter your UPI pin and press ✅. </li><li>Step 7 : Your account and its balance will be displayed.</li></ul>`,
+			img: 'https://images.unsplash.com/photo-1565373679107-344d38dbf734?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80',
+			date: 'July 22, 2021'
+		},
 	];
 </script>
