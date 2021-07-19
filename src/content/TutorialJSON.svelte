@@ -54,5 +54,21 @@
 			img: 'https://images.unsplash.com/photo-1529156069898-49953e39b3ac?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1789&q=80',
 			date: 'July 25, 2021'
 		},
+		{
+			title: 'How to add multiple bank accounts to your UPI ID',
+			preview:
+				'// todo | 265 chars Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam volutpat, turpis sit amet mattis sagittis, orci erat aliquet diam, id consectetur metus enim ut augue. Aenean vitae nulla lacus.',
+			content: `<h3 id="how-to-add-multiple-bank-accounts-to-your-upi-id-">How to add multiple bank accounts to your UPI ID.</h3><ul><li>Step 1 : Before adding a bank account to your UPI ID, ensure that your mobile number is linked to your bank account and you have your SIM installed on your current device.</li><li>Step 2 : Click on your profile picture on the top-right corner.</li><li>Step 3 : Click on bank account under <code>Set up payment methods</code>.</li><li>Step 4 : Click on <code>Add bank account</code>.</li><li>Step 5 : Choose the bank in which you have your account. You can also search by typing the name in the top bar.</li><li>Step 6 : Once the bank is selected, a pop-up appears that asks to verify your number with the bank. Click on <code>Continue</code></li><li>Step 7 : GPay will send a verification code from your phone and it will auto-verify.</li><li>Step 8 : After verification, your account will have a new bank account attached to your UPI ID.</li><li>Step 9 : Similarly, you can add other bank accounts as well to your UPI ID.</li></ul>`,
+			img: 'https://images.unsplash.com/photo-1462045504115-6c1d931f07d1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1951&q=80',
+			date: 'July 26, 2021'
+		},
+		{
+			title: 'How to pay others through UPI ID',
+			preview:
+				'// todo | 265 chars Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam volutpat, turpis sit amet mattis sagittis, orci erat aliquet diam, id consectetur metus enim ut augue. Aenean vitae nulla lacus.',
+			content: `<ul><li>Step 1 : Click on <code>New Payment</code> at the bottom of the screen.</li><li>Step 2 : Click on <code>UPI ID or QR</code> under the <code>Transfer Money</code> section.</li><li>Step 3 : You will get pop up having two options: Pay to <ul><li><code>UPI ID</code></li><li><code>Open code scanner</code></li></ul></li><li>Step 4 : Click on <code>UPI ID</code></li><li>Step 5 : Type the UPI ID of the person you wish to send the money to and click on <code>Verify</code>.</li><li>Step 6 : If the UPI ID is correct, then the name and profile picture of the person is displayed. Click <code>OK</code> if you intend to send money to that person. You might see a message asking you to turn on <code>Location Services</code> for better results. You can either allow or click cancel.</li><li>Step 7 : Click on <code>Pay</code> at the bottom.</li><li>Step 8 : Enter the amount to pay.</li><li>Step 9 : You can attach a note stating the purpose of sending the money. However, this is optional.</li><li>Step 10 : Tap on ➡.</li><li>Step 11: Choose the account you want to pay with and click on <code>Pay</code>.</li><li>Step 12: Enter your UPI pin and click on ✅.</li></ul>`,
+			img: 'https://images.unsplash.com/photo-1550482768-88b710a445fd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1868&q=80',
+			date: 'July 27, 2021'
+		},
 	];
 </script>
