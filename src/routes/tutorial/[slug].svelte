@@ -1,20 +1,20 @@
 <script lang="ts" context="module">
 	// JSON Data
-	import { article } from '../../content/ArticleJSON.svelte';
+	import { tutorial } from '../../content/TutorialJSON.svelte';
 
 	// Dynamic routing + load data based on slug
 	export async function load(context) {
 		let slug = context.page.params.slug;
-		let post = article[parseInt(slug)];
+		let post = tutorial[parseInt(slug)];
 		let pageID: number = parseInt(slug);
-		let numberOfArticles: number = article.length;
-		return { props: { slug, post, pageID, numberOfArticles } };
+		let numberOfTutorials: number = tutorial.length;
+		return { props: { slug, post, pageID, numberOfTutorials } };
 	}
 </script>
 
 <script lang="ts">
 	export let pageID: number;
-	export let numberOfArticles: number;
+	export let numberOfTutorials: number;
 	export let post: { content: string; title: any; date: any; img: string };
 
 	// Components
@@ -23,7 +23,7 @@
 </script>
 
 <!-- Title of Tab -->
-<svelte:head><title>Article | Payment Awareness</title></svelte:head>
+<svelte:head><title>Tutorial | Payment Awareness</title></svelte:head>
 
 <!-- HTML -->
 <div class="w-5/6 lg:w-3/5 mx-auto pb-24">
@@ -43,7 +43,7 @@
 		{#if pageID != 0}
 			<a href="./{pageID - 1}" class="cursor-pointer pl-2 mt-4 flex items-center">
 				<i class="fas fa-angle-left text-yellow-500 mr-2 transform scale-150" />
-				<p class="text-yellow-500">Previous Article</p>
+				<p class="text-yellow-500">Previous Tutorial</p>
 			</a>
 		{/if}
 	</div>
@@ -56,9 +56,9 @@
 	</div>
 
 	<div>
-		{#if pageID + 1 != numberOfArticles}
+		{#if pageID + 1 != numberOfTutorials}
 			<a href="./{pageID + 1}" class="cursor-pointer pl-2 mt-4 flex items-center align-center">
-				<p class="text-yellow-500">Next Article</p>
+				<p class="text-yellow-500">Next Tutorial</p>
 				<i class="fas fa-angle-right text-yellow-500 ml-2 transform scale-150" />
 			</a>
 		{/if}

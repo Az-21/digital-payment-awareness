@@ -15,12 +15,12 @@
 				</button>
 			</a>
 			<!-- Link 2 -->
-			<a href="#article">
+			<a href="#tutorial">
 				<button
 					class="font-medium hover:text-yellow-500 py-1 px-4 border border-transparent hover:border-yellow-500 flex flex-row items-center"
 				>
-					<i class="text-yellow-500 fas fa-newspaper mr-2" />
-					<p class="text-sm font-medium uppercase">Articles</p>
+					<i class="text-yellow-500 fas fa-chalkboard-teacher mr-2" />
+					<p class="text-sm font-medium uppercase">Tutorials</p>
 				</button>
 			</a>
 			<!-- Link 3 -->

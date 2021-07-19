@@ -21,15 +21,15 @@
 			<div
 				class="relative flex flex-col min-w-0 break-words bg-white w-full mb-8 shadow-md rounded-lg"
 			>
-				<a href="#article" class="px-4 py-5 flex-auto bg-gray-900">
+				<a href="#tutorial" class="px-4 py-5 flex-auto bg-gray-900">
 					<div
 						class="p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-md rounded-lg bg-yellow-500"
 					>
-						<i class="fas fa-newspaper" />
+						<i class="fas fa-chalkboard-teacher" />
 					</div>
-					<h6 class="text-xl font-semibold text-yellow-500">Read Articles</h6>
+					<h6 class="text-xl font-semibold text-yellow-500">Read Tutorials</h6>
 					<p class="mt-2 mb-4 text-gray-600">
-						// todo: info about articles and it's benefits
+						// todo: info about tutorials and it's benefits
 					</p>
 				</a>
 			</div>

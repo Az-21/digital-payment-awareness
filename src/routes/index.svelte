@@ -12,7 +12,7 @@
 
 	// JSON Data
 	import { blog } from '../content/BlogJSON.svelte';
-	import { article } from '../content/ArticleJSON.svelte';
+	import { tutorial } from '../content/TutorialJSON.svelte';
 	import { video } from '../content/VideoJSON.svelte';
 
 	// External functions
@@ -44,17 +44,17 @@
 	{/each}
 </div>
 
-<!-- Article section -->
-<div id="article" />
-<SectionHeader text="Read Articles" textColor="text-yellow-500" divColor="divide-yellow-500" />
+<!-- Tutorial section -->
+<div id="tutorial" />
+<SectionHeader text="Read Tutorials" textColor="text-yellow-500" divColor="divide-yellow-500" />
 <div class="w-5/6 mx-auto grid md:grid-cols-3 gap-4">
-	{#each article as article, index}
+	{#each tutorial as tutorial, index}
 		<TextCard
-			routeID={`/article/${index}`}
-			title={article.title}
-			subtitle={truncateText(article.preview)}
-			img={article.img}
-			time={estimateTimeToRead(article.content)}
+			routeID={`/tutorial/${index}`}
+			title={tutorial.title}
+			subtitle={truncateText(tutorial.preview)}
+			img={tutorial.img}
+			time={estimateTimeToRead(tutorial.content)}
 			color="text-yellow-500"
 		/>
 	{/each}
