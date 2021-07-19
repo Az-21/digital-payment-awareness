@@ -573,7 +573,7 @@
 	}
 
 	:global(.markdown-body .pl-mi2) {
-		color: #010101;
+		color: #222;
 		background-color: #005cc5;
 	}
 
@@ -850,7 +850,7 @@
 	}
 
 	:global(.markdown-body table tr:nth-child(2n)) {
-		background-color: #010101;
+		background-color: #222;
 	}
 
 	:global(.markdown-body img) {
@@ -907,7 +907,7 @@
 		overflow: auto;
 		font-size: 85%;
 		line-height: 1.45;
-		background-color: #010101;
+		background-color: #222;
 		border-radius: 3px;
 	}
 
