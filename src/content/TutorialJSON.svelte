@@ -38,5 +38,13 @@
 			img: 'https://images.unsplash.com/photo-1545941962-1b6654eb8072?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1900&q=80',
 			date: 'July 23, 2021'
 		},
+		{
+			title: 'How to scan a QR code and make a payment at physical shops',
+			preview:
+				'// todo | 265 chars Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam volutpat, turpis sit amet mattis sagittis, orci erat aliquet diam, id consectetur metus enim ut augue. Aenean vitae nulla lacus.',
+			content: `<ul><li>Step 1 : Click on <code>Scan any QR code</code> at the top-left corner.</li><li>Step 2 : Place the QR code in front of your camera to scan it. If it is too dark, you can turn on the flash by clicking on the torch symbol at the top-right corner.</li><li>Step 3 : Enter the amount to be paid. You might see a message asking to turn on <code>Location Services</code> for better results. You can either allow or click cancel.</li><li>Step 4 : You can add a note stating the purpose of the money transfer. However, this step is optional. </li><li>Step 5 : Tap on ➡ at the bottom of the page.</li><li>Step 6 : Choose the account you want to pay with.</li><li>Step 7 : Enter your UPI pin and click on ✅.</li></ul>`,
+			img: 'https://images.unsplash.com/photo-1559131397-f94da358f7ca?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80',
+			date: 'July 24, 2021'
+		},
 	];
 </script>
