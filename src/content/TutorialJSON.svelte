@@ -15,12 +15,12 @@
 			date: 'July 20, 2021'
 		},
 		{
-			title: 'Tutorial #3',
+			title: 'How to change UPI pin.',
 			preview:
 				'// todo | 265 chars Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam volutpat, turpis sit amet mattis sagittis, orci erat aliquet diam, id consectetur metus enim ut augue. Aenean vitae nulla lacus.',
-			content: `placeholderText 1 asdas asdasd`,
-			img: 'https://i.pinimg.com/originals/3e/d4/98/3ed498d3a4be00401e9bda4b5c68f237.jpg',
-			date: 'July 9, 2021'
+			content: `<ul><li>Step 1 : Click on your profile picture.</li><li>Step 2 : Click on <code>Bank Account</code> under the tab <code>Set up Payment Methods</code>. </li><li>Step 3 : Click on your bank account. </li><li>Step 4 : Tap on the three dots at the top-right corner of your screen.</li><li>Step 5 : Click on <code>Change UPI pin</code>.</li><li>Step 6 : Enter your old UPI pin and press ✅.</li><li>Step 7 : Enter the new pin you wish to keep and press ✅.</li><li>Step 8 : Enter the new pin again to confirm. </li><li>Step 9 : Your UPI pin is changed.</li></ul>`,
+			img: 'https://images.unsplash.com/photo-1504203700686-f21e703e5f1c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1961&q=80',
+			date: 'July 21, 2021'
 		}
 	];
 </script>
