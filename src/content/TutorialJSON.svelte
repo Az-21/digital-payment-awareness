@@ -1,7 +1,7 @@
 <script lang="ts" context="module">
 	export const tutorial = [
 		{
-			title: 'How to create an account on Google Pay and connect it to your bank account',
+			title: 'How to create an account on Google Pay',
 			preview: '// todo | 265 chars Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam volutpat, turpis sit amet mattis sagittis, orci erat aliquet diam, id consectetur metus enim ut augue. Aenean vitae nulla lacus.',
 			content: `<ul><li>Step 1 : Open GPay on your mobile.</li><li>Step 2 : Enter the phone number that is linked to your bank account and click on <code>Next</code> at the bottom of the screen. </li><li>Step 3 : Select the email and the mobile number you wish to link to your bank account. Tap <code>Next</code>.</li><li>Step 4 : You will receive an OTP on your registered mobile number. Enter the OTP and press <code>Next</code>.</li><li>Step 5 : Click on create UPI pin and select <code>Continue</code>. </li><li>Step 6 : Set a strong pin. This pin is required whenever you open the app. Tap on ✅.</li><li>Step 7 : Now, tap on your profile picture at the top-right corner. </li><li>Step 8 : Click on <code>Add bank account</code>.</li><li>Step 9 : You will get a list of banks. Select the bank in which you have your account.</li><li>Step 10 : Once the bank is selected, a pop-up appears that asks to verify your number with the bank. Click on Continue.</li><li>Step 11 : GPay will send a verification code from your phone and it will auto-verify your number with the bank.</li><li>Step 12 : Now, you need to verify your account with the help of an ATM card. Click on the card and then <code>Start</code> at the bottom of the screen.</li><li>Step 13 : Enter the last 6 digits of your debit card, expiry date and click on ➡.</li><li>Step 14 : You will receive an OTP. Enter it and set a strong UPI pin. This will be required whenever you make a transaction.</li><li>Step 15 : Your account is created and linked to GPay.</li></ul>`,
 			img: 'https://images.unsplash.com/photo-1522937335625-b87ea99dc133?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80',
@@ -39,7 +39,7 @@
 			date: 'July 23, 2021'
 		},
 		{
-			title: 'How to scan a QR code and make a payment at physical shops',
+			title: 'How to scan a QR code and make a payment',
 			preview:
 				'// todo | 265 chars Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam volutpat, turpis sit amet mattis sagittis, orci erat aliquet diam, id consectetur metus enim ut augue. Aenean vitae nulla lacus.',
 			content: `<ul><li>Step 1 : Click on <code>Scan any QR code</code> at the top-left corner.</li><li>Step 2 : Place the QR code in front of your camera to scan it. If it is too dark, you can turn on the flash by clicking on the torch symbol at the top-right corner.</li><li>Step 3 : Enter the amount to be paid. You might see a message asking to turn on <code>Location Services</code> for better results. You can either allow or click cancel.</li><li>Step 4 : You can add a note stating the purpose of the money transfer. However, this step is optional. </li><li>Step 5 : Tap on ➡ at the bottom of the page.</li><li>Step 6 : Choose the account you want to pay with.</li><li>Step 7 : Enter your UPI pin and click on ✅.</li></ul>`,
