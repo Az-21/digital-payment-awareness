@@ -8,10 +8,10 @@
 			date: 'July 19, 2021'
 		},
 		{
-			title: 'Tutorial #2',
+			title: 'How to share your UPI ID.',
 			preview: '// todo | 265 chars Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam volutpat, turpis sit amet mattis sagittis, orci erat aliquet diam, id consectetur metus enim ut augue. Aenean vitae nulla lacus.',
-			content: `placeholderText 1 123231 asdasd`,
-			img: 'https://i.pinimg.com/originals/3e/d4/98/3ed498d3a4be00401e9bda4b5c68f237.jpg',
+			content: `<ul><li>Step 1 : Click on your profile picture at the top-right of your screen.</li><li>Step 2 : Click on your profile picture again.</li><li>Step 3 : You will see a screen displaying your <code>Spot Code</code>. Spot Code is similar to a QR code, but is unique to Google Pay. <code>Scan my spot code to connect</code> will be written below the visual code.</li><li>Step 4 : Swipe right. </li><li>Step 5 : You will see a screen with your QR code displayed.</li><li>Step 6 : Below the QR code, you have your UPI ID. </li><li>Step 7 : Copy it and share your UPI ID.</li></ul>`,
+			img: 'https://images.unsplash.com/photo-1530989166579-96a5923c8ce5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1951&q=80',
 			date: 'July 20, 2021'
 		},
 		{
