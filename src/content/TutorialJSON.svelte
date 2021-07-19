@@ -70,5 +70,13 @@
 			img: 'https://images.unsplash.com/photo-1550482768-88b710a445fd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1868&q=80',
 			date: 'July 27, 2021'
 		},
+		{
+			title: 'How to send money to online merchants (eg: Amazon)',
+			preview:
+				'// todo | 265 chars Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam volutpat, turpis sit amet mattis sagittis, orci erat aliquet diam, id consectetur metus enim ut augue. Aenean vitae nulla lacus.',
+			content: `<p>You can pay through GPay at different online sites by following the below steps:</p><ul><li>Step 1 : Select <code>Pay via UPI</code> in the online site/app you are using.</li><li>Step 2 : Click on GPay or Enter your UPI ID. <a href="https://digital-payment-awareness.vercel.app/tutorial/1">Here&#39;s how to get your UPI ID</a>.</li><li>Step 3 : You will get a message on your phone requesting for money. Check whether the amount that is being requested is the same as the amount for the item(s) mentioned in the website or app.</li><li>Step 4: If you didn&#39;t receive a notification, then go to GPay and check the notification center.</li><li>Step 4 : Click on the link given in the message for payment.</li><li>Step 5 : You can attach a note stating the purpose of sending the money. However, this is optional and you can choose to skip it.</li><li>Step 6 : Tap on ➡.</li><li>Step 7 : Choose the account you want to pay with and press <code>Pay</code></li><li>Step 8 : Enter your UPI pin and click ✅.</li></ul>`,
+			img: 'https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1971&q=80',
+			date: 'July 28, 2021'
+		},
 	];
 </script>
