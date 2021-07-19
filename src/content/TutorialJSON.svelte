@@ -46,5 +46,13 @@
 			img: 'https://images.unsplash.com/photo-1559131397-f94da358f7ca?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80',
 			date: 'July 24, 2021'
 		},
+		{
+			title: 'How to send money to contacts',
+			preview:
+				'// todo | 265 chars Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam volutpat, turpis sit amet mattis sagittis, orci erat aliquet diam, id consectetur metus enim ut augue. Aenean vitae nulla lacus.',
+			content: `<ul><li>Step 1: Click on <code>New payment</code> at the bottom of your screen.</li><li>Step 2: Click on the search bar at the top.</li><li>Step 3: Type the name or number of the person. </li><li>Step 4: Once you recognize the contact by checking the phone number, click on it.</li><li>Step 5: Tap <code>Pay</code> at the bottom of the page. You might see a message asking you to turn on <code>Location Services</code> for better results. You can either allow or click cancel.</li><li>Step 6: Type the amount you want to transfer.</li><li>Step 7 : You can attach a note stating the purpose for sending money. However, this is optional and you can leave it blank.</li><li>Step 8: Tap on ➡.</li><li>Step 9: Choose the account you want to pay with and click on <code>Pay</code>.</li><li>Step 10: Fill your UPI pin and click on ✅. </li></ul>`,
+			img: 'https://images.unsplash.com/photo-1529156069898-49953e39b3ac?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1789&q=80',
+			date: 'July 25, 2021'
+		},
 	];
 </script>
