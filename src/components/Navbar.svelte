@@ -1,46 +1,42 @@
-<nav class="bg-gray-900 invisible lg:visible -mt-16 lg:-mt-0">
-	<div class="flex w-5/6 mx-auto lg:justify-between py-2 items-center">
-		<!-- LHS -->
-		<p class="w-4/5 uppercase text-md font-semibold tracking-widest">Digital Payment Awareness</p>
+<script lang="ts">
+	export let shown = true;
+	function toggleMenu() {
+		shown = !shown;
+	}
+</script>
 
-		<!-- RHS -->
-		<div class="w-1/5 flex flex-row justify-end items-center gap-4">
-			<!-- Link 1 -->
-			<a href="#blog">
-				<button
-					class="font-medium hover:text-blue-500 py-1 px-4 border border-transparent hover:border-blue-500 flex flex-row items-center"
-				>
-					<i class="text-blue-500 fas fa-file-alt mr-2" />
-					<p class="text-sm font-medium uppercase">Blogs</p>
+<nav class="shadow bg-gray-900 fixed z-50 w-full">
+	<div class="container px-6 py-2 mx-auto md:flex md:justify-between md:items-center">
+		<div class="flex items-center justify-between">
+			<div>
+				<p class="text-md font-medium uppercase md:place-content-center">
+					Digital Payment Awareness
+				</p>
+			</div>
+
+			<!-- Mobile menu button -->
+			<div class="flex md:hidden">
+				<button on:click={() => toggleMenu()}>
+					<i class="fas fa-bars" />
 				</button>
-			</a>
-			<!-- Link 2 -->
-			<a href="#tutorial">
-				<button
-					class="font-medium hover:text-yellow-500 py-1 px-4 border border-transparent hover:border-yellow-500 flex flex-row items-center"
-				>
-					<i class="text-yellow-500 fas fa-chalkboard-teacher mr-2" />
-					<p class="text-sm font-medium uppercase">Tutorials</p>
-				</button>
-			</a>
-			<!-- Link 3 -->
-			<a href="#video">
-				<button
-					class="font-medium hover:text-red-500 py-1 px-4 border border-transparent hover:border-red-500 flex flex-row items-center"
-				>
-					<i class="text-red-500 fab fa-youtube mr-2" />
-					<p class="text-sm font-medium uppercase">Videos</p>
-				</button>
-			</a>
-			<!-- Link 4 -->
-			<a href="https://github.com/Az-21/digital-payment-awareness" target="blank">
-				<button
-					class="font-semibold hover:text-gray-100 py-1 px-4 border border-transparent hover:border-gray-100 flex flex-row items-center"
-				>
-					<i class="text-gray-100 fab fa-github mr-2" />
-					<p class="text-sm font-medium uppercase">GitHub</p>
-				</button>
-			</a>
+			</div>
 		</div>
+
+		<!-- Mobile Menu open: "block", Menu closed: "hidden" -->
+		{#if shown}
+			<div class="items-center md:flex">
+				<div class="flex flex-col md:flex-row md:mx-6">
+					<a class="text-sm font-medium hover:text-blue-500 md:mx-4 md:my-0" href="#blog">Blogs</a>
+					<a class="text-sm font-medium hover:text-yellow-500 md:mx-4 md:my-0" href="#tutorial"
+						>Tutorials</a
+					>
+					<a class="text-sm font-medium hover:text-red-500 md:mx-4 md:my-0" href="#video">Videos</a>
+					<a
+						class="text-sm font-medium hover:text-gray-400 md:mx-4 md:my-0"
+						href="https://github.com/Az-21/digital-payment-awareness">GitHub</a
+					>
+				</div>
+			</div>
+		{/if}
 	</div>
 </nav>
