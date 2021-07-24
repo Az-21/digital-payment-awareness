@@ -6,15 +6,15 @@
 		class="absolute top-0 w-full h-full bg-center bg-cover"
 		style="background-image: url('https://images.unsplash.com/photo-1548870884-a7decdf2e038?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1949&q=80');"
 	>
-		<span id="blackOverlay" class="w-full h-full absolute opacity-25 bg-black" />
+		<span id="blackOverlay" class="w-full h-full absolute opacity-50 bg-black" />
 	</div>
 	<div class="container relative mx-auto">
 		<div class="items-center flex flex-wrap">
-			<div class="w-full lg:w-6/12 px-4 ml-auto mr-auto text-center">
-				<div class="pr-12">
-					<h1 class="font-semibold text-5xl">Digitize your business.</h1>
-					<p class="mt-4 text-lg text-gray-300">
-						// todo: subheading
+			<div class="w-5/6 ml-auto mr-auto text-center">
+				<div>
+					<h1 class="font-semibold text-5xl">Digital Payment Awareness</h1>
+					<p class="mt-4 text-lg text-white">
+						🎴 Integrate modern, digital payment methods in your business.
 					</p>
 				</div>
 			</div>
