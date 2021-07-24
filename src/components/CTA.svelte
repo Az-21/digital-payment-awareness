@@ -12,7 +12,7 @@
 					</div>
 					<h6 class="text-xl font-semibold text-blue-500">Read Blogs</h6>
 					<p class="mt-2 mb-4 text-gray-600">
-						// todo: info about blogs and it's benefits
+						Read about the digital payment boom in India and how it affects your business.
 					</p>
 				</a>
 			</div>
@@ -29,7 +29,7 @@
 					</div>
 					<h6 class="text-xl font-semibold text-yellow-500">Read Tutorials</h6>
 					<p class="mt-2 mb-4 text-gray-600">
-						// todo: info about tutorials and it's benefits
+						Set up digital payment methods and integrate them with your business.
 					</p>
 				</a>
 			</div>
@@ -46,7 +46,7 @@
 					</div>
 					<h6 class="text-xl font-semibold text-red-500">Watch Videos</h6>
 					<p class="mt-2 mb-4 text-gray-600">
-						// todo: info about videos and it's benefits
+						Complete guide on digital payment setup and business integration tutorials.
 					</p>
 				</a>
 			</div>
