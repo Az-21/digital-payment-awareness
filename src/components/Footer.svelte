@@ -4,38 +4,47 @@
 			<div class="w-full lg:w-6/12">
 				<h4 class="text-3xl font-semibold">Digital Payment Awareness</h4>
 				<h5 class="text-lg mt-0 mb-2 text-gray-400">
-					// todo: add some closing remark
+					🎴 Integrate modern, digital payment methods in your business.
 				</h5>
 				<div class="mt-6 pt-4 lg:pt-0">
-					<button
-						class="bg-white text-blue-400 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2 p-3"
-						type="button"
-					>
-						<i class="flex fab fa-twitter" /></button
-					><button
-						class="bg-white text-pink-600 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2 p-3"
-						type="button"
-					>
-						<i class="flex fab fa-instagram" /></button
-					><button
-						class="bg-white text-red-500 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2 p-3"
-						type="button"
-					>
-						<i class="flex fab fa-youtube" /></button
-					><button
-						class="bg-white text-gray-900 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2 p-3"
-						type="button"
-					>
-						<i class="flex fab fa-github" />
-					</button>
+					<a href="https://twitter.com/DigitalPay_IN" target="_blank">
+						<button
+							class="bg-white text-blue-400 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2 p-3"
+							type="button"
+						>
+							<i class="flex fab fa-twitter" /></button
+						>
+					</a>
+					<a href="https://www.instagram.com/DigitalPay_IN" target="_blank">
+						<button
+							class="bg-white text-pink-600 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2 p-3"
+							type="button"
+						>
+							<i class="flex fab fa-instagram" /></button
+						>
+					</a>
+					<a href="https://www.youtube.com/channel/UCBfNAGrwi2GbMhjxgF3hHxA" target="_blank">
+						<button
+							class="bg-white text-red-500 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2 p-3"
+							type="button"
+						>
+							<i class="flex fab fa-youtube" /></button
+						>
+					</a>
+					<a href="https://github.com/Az-21/digital-payment-awareness" target="_blank">
+						<button
+							class="bg-white text-gray-900 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2 p-3"
+							type="button"
+						>
+							<i class="flex fab fa-github" />
+						</button>
+					</a>
 				</div>
 			</div>
 			<div class="w-full lg:w-6/12">
 				<div class="flex flex-wrap items-top mb-6">
 					<div class="w-1/2 lg:w-2/5 ml-auto pt-4 lg:pt-0">
-						<span class="block uppercase text-gray-100 text-sm font-semibold mb-2"
-							>Links</span
-						>
+						<span class="block uppercase text-gray-100 text-sm font-semibold mb-2">Links</span>
 						<ul class="list-unstyled">
 							<li>
 								<a
@@ -52,13 +61,14 @@
 							<li>
 								<a
 									class="text-gray-400 hover:text-green-500 font-semibold block pb-2 text-sm"
-									href="https://github.com/Az-21/digital-payment-awareness/stargazers" target="blank">★ on GitHub</a
+									href="https://github.com/Az-21/digital-payment-awareness/stargazers"
+									target="blank">★ on GitHub</a
 								>
 							</li>
 							<li>
 								<a
 									class="text-gray-400 hover:text-green-500 font-semibold block pb-2 text-sm"
-									href="#todo">TODO</a
+									href="https://en.wikipedia.org/wiki/Unified_Payments_Interface">UPI Wiki</a
 								>
 							</li>
 						</ul>
@@ -100,7 +110,9 @@
 		<hr class="my-6 border-gray-400" />
 		<div class="flex flex-wrap items-center md:justify-between justify-center">
 			<div class="w-full md:w-4/12 px-4 mx-auto text-center">
-				<div class="text-sm text-gray-600 font-semibold py-1">Made by Post-EEE Rehab Group</div>
+				<a href="/page/about" class="text-sm text-gray-600 font-semibold py-1"
+					>Made With ❤ | View Our Team</a
+				>
 			</div>
 		</div>
 	</div>
