@@ -65,7 +65,7 @@
 <SectionHeader text="Watch Videos" textColor="text-red-500" divColor="divide-red-500" />
 <div class="w-5/6 mx-auto grid md:grid-cols-2 gap-4">
 	{#each video as video}
-		<Video title={video.title} subtitle={video.content} link={video.link} time={video.time} />
+		<Video title={video.title} link={video.link} time={video.time} />
 	{/each}
 </div>
 

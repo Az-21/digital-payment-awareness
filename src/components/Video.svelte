@@ -1,6 +1,5 @@
 <script lang="ts">
 	export let title: string = 'err: title prop not passed';
-	export let subtitle: string = 'err: subtitle prop not passed';
 	export let link: string = 'err: video link prop not passed';
 	export let time: string = 'err: time to read prop not passed';
 </script>
@@ -15,7 +14,6 @@
 				<i class="fab fa-youtube text-red-500 mr-2 transform fa-2x" />
 				<h2 class="font-bold text-2xl tracking-normal">{title}</h2>
 			</div>
-			<p class="text-sm text-gray-300 overflow-hidden">{subtitle}</p>
 			<div class="mt-4 flex items-center">
 				<i class="fas fa-clock text-red-500 mr-2" />
 				<p class="text-gray-500 text-xs">{time} Minute Watch</p>
