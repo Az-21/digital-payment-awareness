@@ -22,28 +22,8 @@
 					style="max-width: 120px;"
 				/>
 				<div class="pt-6 text-center">
-					<p class="text-xl font-bold">ABC XYZ</p>
-					<p class="mt-1 text-sm text-gray-500 uppercase font-semibold">Contribution</p>
-					<div class="mt-2">
-						<button
-							class="bg-blue-400 w-8 h-8 rounded-full outline-none focus:outline-none mr-1 mb-1"
-							type="button"
-						>
-							<i class="fab fa-twitter" />
-						</button>
-						<button
-							class="bg-white w-8 h-8 rounded-full outline-none focus:outline-none mr-1 mb-1"
-							type="button"
-						>
-							<i class="fab fa-github text-gray-900 transform scale-125" />
-						</button>
-						<button
-							class="bg-red-500 w-8 h-8 rounded-full outline-none focus:outline-none mr-1 mb-1"
-							type="button"
-						>
-							<i class="fas fa-envelope" />
-						</button>
-					</div>
+					<p class="text-xl font-bold">Abhishek Choudhary</p>
+					<p class="mt-1 text-sm text-gray-500 uppercase font-semibold">WebDev</p>
 				</div>
 			</div>
 		</div>
@@ -58,26 +38,6 @@
 				<div class="pt-6 text-center">
 					<p class="text-xl font-bold">Abdul Baquar</p>
 					<p class="mt-1 text-sm text-gray-500 uppercase font-semibold">Editor and Writer</p>
-					<div class="mt-2">
-						<button
-							class="bg-blue-400 w-8 h-8 rounded-full outline-none focus:outline-none mr-1 mb-1"
-							type="button"
-						>
-							<i class="fab fa-twitter" />
-						</button>
-						<button
-							class="bg-white w-8 h-8 rounded-full outline-none focus:outline-none mr-1 mb-1"
-							type="button"
-						>
-							<i class="fab fa-github text-gray-900 transform scale-125" />
-						</button>
-						<button
-							class="bg-red-500 w-8 h-8 rounded-full outline-none focus:outline-none mr-1 mb-1"
-							type="button"
-						>
-							<i class="fas fa-envelope" />
-						</button>
-					</div>
 				</div>
 			</div>
 		</div>
@@ -90,28 +50,8 @@
 					style="max-width: 120px;"
 				/>
 				<div class="pt-6 text-center">
-					<p class="text-xl font-bold">Abhishek Choudhary</p>
-					<p class="mt-1 text-sm text-gray-500 uppercase font-semibold">Fullstack Developer</p>
-					<div class="mt-2">
-						<button
-							class="bg-blue-400 w-8 h-8 rounded-full outline-none focus:outline-none mr-1 mb-1"
-							type="button"
-						>
-							<i class="fab fa-twitter" />
-						</button>
-						<button
-							class="bg-white w-8 h-8 rounded-full outline-none focus:outline-none mr-1 mb-1"
-							type="button"
-						>
-							<i class="fab fa-github text-gray-900 transform scale-125" />
-						</button>
-						<button
-							class="bg-red-500 w-8 h-8 rounded-full outline-none focus:outline-none mr-1 mb-1"
-							type="button"
-						>
-							<i class="fas fa-envelope" />
-						</button>
-					</div>
+					<p class="text-xl font-bold">Ganesh Rai</p>
+					<p class="mt-1 text-sm text-gray-500 uppercase font-semibold">Writer and WebDev</p>
 				</div>
 			</div>
 		</div>
@@ -124,28 +64,8 @@
 					style="max-width: 120px;"
 				/>
 				<div class="pt-6 text-center">
-					<p class="text-xl font-bold">ABC XYZ</p>
-					<p class="mt-1 text-sm text-gray-500 uppercase font-semibold">Contribution</p>
-					<div class="mt-2">
-						<button
-							class="bg-blue-400 w-8 h-8 rounded-full outline-none focus:outline-none mr-1 mb-1"
-							type="button"
-						>
-							<i class="fab fa-twitter" />
-						</button>
-						<button
-							class="bg-white w-8 h-8 rounded-full outline-none focus:outline-none mr-1 mb-1"
-							type="button"
-						>
-							<i class="fab fa-github text-gray-900 transform scale-125" />
-						</button>
-						<button
-							class="bg-red-500 w-8 h-8 rounded-full outline-none focus:outline-none mr-1 mb-1"
-							type="button"
-						>
-							<i class="fas fa-envelope" />
-						</button>
-					</div>
+					<p class="text-xl font-bold">Abhijit Sahoo</p>
+					<p class="mt-1 text-sm text-gray-500 uppercase font-semibold">Writer and Research</p>
 				</div>
 			</div>
 		</div>
@@ -160,28 +80,8 @@
 					style="max-width: 120px;"
 				/>
 				<div class="pt-6 text-center">
-					<p class="text-xl font-bold">ABC XYZ</p>
-					<p class="mt-1 text-sm text-gray-500 uppercase font-semibold">Contribution</p>
-					<div class="mt-2">
-						<button
-							class="bg-blue-400 w-8 h-8 rounded-full outline-none focus:outline-none mr-1 mb-1"
-							type="button"
-						>
-							<i class="fab fa-twitter" />
-						</button>
-						<button
-							class="bg-white w-8 h-8 rounded-full outline-none focus:outline-none mr-1 mb-1"
-							type="button"
-						>
-							<i class="fab fa-github text-gray-900 transform scale-125" />
-						</button>
-						<button
-							class="bg-red-500 w-8 h-8 rounded-full outline-none focus:outline-none mr-1 mb-1"
-							type="button"
-						>
-							<i class="fas fa-envelope" />
-						</button>
-					</div>
+					<p class="text-xl font-bold">Ishit K.</p>
+					<p class="mt-1 text-sm text-gray-500 uppercase font-semibold">Writer</p>
 				</div>
 			</div>
 		</div>
@@ -194,28 +94,8 @@
 					style="max-width: 120px;"
 				/>
 				<div class="pt-6 text-center">
-					<p class="text-xl font-bold">ABC XYZ</p>
-					<p class="mt-1 text-sm text-gray-500 uppercase font-semibold">Contribution</p>
-					<div class="mt-2">
-						<button
-							class="bg-blue-400 w-8 h-8 rounded-full outline-none focus:outline-none mr-1 mb-1"
-							type="button"
-						>
-							<i class="fab fa-twitter" />
-						</button>
-						<button
-							class="bg-white w-8 h-8 rounded-full outline-none focus:outline-none mr-1 mb-1"
-							type="button"
-						>
-							<i class="fab fa-github text-gray-900 transform scale-125" />
-						</button>
-						<button
-							class="bg-red-500 w-8 h-8 rounded-full outline-none focus:outline-none mr-1 mb-1"
-							type="button"
-						>
-							<i class="fas fa-envelope" />
-						</button>
-					</div>
+					<p class="text-xl font-bold">Dhruv Kanthaliya</p>
+					<p class="mt-1 text-sm text-gray-500 uppercase font-semibold">Writer</p>
 				</div>
 			</div>
 		</div>
@@ -228,62 +108,8 @@
 					style="max-width: 120px;"
 				/>
 				<div class="pt-6 text-center">
-					<p class="text-xl font-bold">ABC XYZ</p>
-					<p class="mt-1 text-sm text-gray-500 uppercase font-semibold">Contribution</p>
-					<div class="mt-2">
-						<button
-							class="bg-blue-400 w-8 h-8 rounded-full outline-none focus:outline-none mr-1 mb-1"
-							type="button"
-						>
-							<i class="fab fa-twitter" />
-						</button>
-						<button
-							class="bg-white w-8 h-8 rounded-full outline-none focus:outline-none mr-1 mb-1"
-							type="button"
-						>
-							<i class="fab fa-github text-gray-900 transform scale-125" />
-						</button>
-						<button
-							class="bg-red-500 w-8 h-8 rounded-full outline-none focus:outline-none mr-1 mb-1"
-							type="button"
-						>
-							<i class="fas fa-envelope" />
-						</button>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="w-full md:w-6/12 lg:w-3/12 lg:mb-0 mb-12 px-4">
-			<div class="px-6">
-				<img
-					alt="memberPhoto"
-					src="https://via.placeholder.com/150"
-					class="shadow-lg rounded-full max-w-full mx-auto"
-					style="max-width: 120px;"
-				/>
-				<div class="pt-6 text-center">
-					<p class="text-xl font-bold">ABC XYZ</p>
-					<p class="mt-1 text-sm text-gray-500 uppercase font-semibold">Contribution</p>
-					<div class="mt-2">
-						<button
-							class="bg-blue-400 w-8 h-8 rounded-full outline-none focus:outline-none mr-1 mb-1"
-							type="button"
-						>
-							<i class="fab fa-twitter" />
-						</button>
-						<button
-							class="bg-white w-8 h-8 rounded-full outline-none focus:outline-none mr-1 mb-1"
-							type="button"
-						>
-							<i class="fab fa-github text-gray-900 transform scale-125" />
-						</button>
-						<button
-							class="bg-red-500 w-8 h-8 rounded-full outline-none focus:outline-none mr-1 mb-24"
-							type="button"
-						>
-							<i class="fas fa-envelope" />
-						</button>
-					</div>
+					<p class="text-xl font-bold">Amogh Mishra</p>
+					<p class="mt-1 text-sm text-gray-500 uppercase font-semibold">Writer</p>
 				</div>
 			</div>
 		</div>
