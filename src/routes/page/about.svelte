@@ -110,6 +110,20 @@
 				</div>
 			</div>
 		</div>
+		<div class="w-full md:w-6/12 lg:w-3/12 lg:mb-0 mb-12 px-4">
+			<div class="px-6">
+				<img
+					alt="memberPhoto"
+					src="https://via.placeholder.com/150"
+					class="shadow-lg rounded-full max-w-full mx-auto"
+					style="max-width: 120px;"
+				/>
+				<div class="pt-6 text-center">
+					<p class="text-xl font-bold">Harsh Thamke</p>
+					<p class="mt-1 text-sm text-gray-500 uppercase font-semibold">Promoter</p>
+				</div>
+			</div>
+		</div>
 	</div>
 </div>
 
