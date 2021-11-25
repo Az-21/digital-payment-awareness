@@ -120,7 +120,7 @@
 				/>
 				<div class="pt-6 text-center">
 					<p class="text-xl font-bold">Harsh Thamke</p>
-					<p class="mt-1 text-sm text-gray-500 uppercase font-semibold">Promoter</p>
+					<p class="mt-1 text-sm text-gray-500 uppercase font-semibold">Writer</p>
 				</div>
 			</div>
 		</div>
